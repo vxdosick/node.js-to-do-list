@@ -1,0 +1,24 @@
+{
+  "name": "node.js-to-do-list",
+  "version": "1.0.0",
+  "description": "NODE.JS_EXPRESS_EJS_SASS_MVC_TODOLIST_Incomplete",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vxdosick/node.js-to-do-list.git"
+  },
+  "author": "vxdosick",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vxdosick/node.js-to-do-list/issues"
+  },
+  "homepage": "https://github.com/vxdosick/node.js-to-do-list#readme",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "sass": "^1.75.0"
+  }
+}
